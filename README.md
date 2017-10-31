@@ -1,2 +1,2 @@
 # C-Plus-Plus
-All Algorithms implemented in C++
+All Algorithms Implemented in C++
